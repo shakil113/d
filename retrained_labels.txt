@@ -1,0 +1,5 @@
+badminton
+basketball
+swimming
+table tennis
+water polo
